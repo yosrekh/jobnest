@@ -10,7 +10,7 @@ pandas
 numpy
 
 # Machine Learning
-scikit-learn
+scikit-learn==1.7.2
 
 # API  (FastAPI replaces Flask)
 fastapi
